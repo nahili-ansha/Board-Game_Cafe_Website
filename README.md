@@ -33,5 +33,4 @@ Copy code
 2. Customize the Content: Edit the HTML and CSS files to customize the content and styles as needed.
 3. Add More Features: Enhance the website by adding more sections or interactive elements.
 
-# Enjoy your visit to Sip and Play!
-https://www.figma.com/design/auyhEoaPd9zQ1v9hIKtQsf/main-page?node-id=0-1&t=YoVr7sfWRni7IIxs-0
+
