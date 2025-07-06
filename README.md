@@ -6,6 +6,9 @@ Welcome to Sip and Play, the ultimate board game café experience. This README f
 
 ## Overview
 
+![Demo](https://github.com/nahili-ansha/Board-Game_Cafe_Website/blob/main/sip%26play.gif
+)
+
 
 ### File Structure
 - HTML File: This file contains the structure of the website.
